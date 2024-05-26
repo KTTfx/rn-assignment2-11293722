@@ -13,7 +13,7 @@ This is a simple React Native application created using Expo CLI. The main scree
 
 ## Screenshot
 
-![Screenshot]((image.png))
+![Screenshot]((C:\Users\Elvis\Desktop\rn-assignment2-11293722\rn-assignment2-11293722\assets\image.png))
 
 ## Student ID
 
